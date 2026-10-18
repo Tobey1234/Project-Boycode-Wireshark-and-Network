@@ -36,7 +36,7 @@ Findings:
 
 A DNS query packet showed the browser asking 172.20.26.19 (the configured resolver) for records on example.com — specifically an A record (IPv4 address) and an AAAA record (IPv6 address), plus a modern HTTPS record type used by browsers for connection hints.
 The matching response packet (matched via a shared Transaction ID, e.g. 0xfb88) returned two valid IPv4 addresses: 104.20.23.154 and 172.66.147.243, along with a TTL (Time to Live) of 300 seconds — telling the browser how long it could reuse this answer before asking again.
-DNS operates over UDP (port 53) rather than TCP, since it's a lightweight, single-shot question-and-answer exchange rather than a sustained conversation.
+DNS operates over UDP (port 17) rather than TCP, since it's a lightweight, single-shot question-and-answer exchange rather than a sustained conversation.
 Part 2: TCP Traffic
 Filter used: tcp, then tcp.flags.syn==1 to locate handshakes
 
@@ -47,7 +47,7 @@ The Three-Way Handshake:
 1. Client → Server   [SYN]        "I'd like to connect"
 2. Server → Client   [SYN, ACK]   "Acknowledged — I'd like to connect too"
 3. Client → Server   [ACK]        "Confirmed — connection open"
-This exact pattern was captured cleanly on a connection to 172.66.147.243:443 (packets 23, 27, 28), immediately followed by TLS negotiation and encrypted application data — demonstrating the full connection lifecycle in sequence.
+This exact pattern was captured cleanly on a connection to 172.66.147.243:443 (packets 7, 8, 20), immediately followed by TLS negotiation and encrypted application data — demonstrating the full connection lifecycle in sequence.
 
 A notable edge case was also observed: one of three parallel connection attempts (browsers often try multiple server IPs at once for speed/reliability) completed its SYN/SYN-ACK exchange but was then terminated with an RST (Reset) flag rather than a plain ACK. This is normal "happy eyeballs" behavior — once one connection succeeds, the browser cancels the redundant ones.
 
