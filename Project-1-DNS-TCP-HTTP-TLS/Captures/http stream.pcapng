@@ -1,0 +1,642 @@
+GET /research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems/http-based-systems HTTP/1.1
+Host: eitc.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://www.google.com/
+Connection: keep-alive
+Cookie: I18N_LANGUAGE="en"
+Upgrade-Insecure-Requests: 1
+Priority: u=0, i
+
+
+HTTP/1.1 200 OK
+Date: Sun, 18 Oct 2026 01:10:54 GMT
+Server: Zope/(2.13.10, python 2.6.7, linux3) ZServer/1.1
+Content-Length: 29624
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Type: text/html;charset=utf-8
+Content-Language: en
+Connection: close
+
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  
+    
+    
+    
+    
+
+
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+      <base href="http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems/http-based-systems/http-based-systems" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<link rel="kss-base-url" href="http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems/http-based-systems/http-based-systems/" />
+
+  
+    <style type="text/css" media="screen">@import url(http://eitc.org/portal_css/Old%20Plone%203%20Custom%20Theme/base-cachekey4398.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://eitc.org/portal_css/Old%20Plone%203%20Custom%20Theme/resourcetinymce.stylesheetstinymce-cachekey1988.css" />
+    <style type="text/css">@import url(http://eitc.org/portal_css/Old%20Plone%203%20Custom%20Theme/print-cachekey2064.css);</style>
+    <style type="text/css" media="screen">@import url(http://eitc.org/portal_css/Old%20Plone%203%20Custom%20Theme/nuplone-cachekey8946.css);</style>
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="http://eitc.org/portal_css/Old%20Plone%203%20Custom%20Theme/IEFixes-cachekey2593.css" />
+        <![endif]-->
+    
+
+  
+    <link rel="kinetic-stylesheet" type="text/css" href="http://eitc.org/portal_kss/Old%20Plone%203%20Custom%20Theme/at-cachekey2149.kss" />
+  
+    <script type="text/javascript" src="http://eitc.org/portal_javascripts/Old%20Plone%203%20Custom%20Theme/jquery-cachekey2706.js"></script>
+    <script type="text/javascript" src="http://eitc.org/portal_javascripts/Old%20Plone%203%20Custom%20Theme/resourcekukit-cachekey6247.js"></script>
+    <script type="text/javascript" src="http://eitc.org/portal_javascripts/Old%20Plone%203%20Custom%20Theme/resourcekukit-devel-cachekey5406.js"></script>
+    <script type="text/javascript" src="http://eitc.org/portal_javascripts/Old%20Plone%203%20Custom%20Theme/kupunoi18n-cachekey0566.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://eitc.org/portal_javascripts/Old%20Plone%203%20Custom%20Theme/iefixes-cachekey5786.js"></script>
+       <![endif]-->
+     
+
+
+<title>HTTP-based Systems &mdash; EITC</title>
+
+        
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://eitc.org/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://eitc.org/touch_icon.png" />
+
+
+
+    <link rel="home" href="http://eitc.org" title="Front page" />
+
+    <link rel="contents" href="http://eitc.org/sitemap" title="Site Map" />
+
+
+
+
+
+
+    <link rel="search" href="http://eitc.org/search_form" title="Search this site" />
+
+
+
+        <!-- Disable IE6 image toolbar -->
+        <meta http-equiv="imagetoolbar" content="no" />
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+    
+
+  </head>
+
+  <body class="template-document_view portaltype-document section-research-opportunities icons-on" dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        <div id="portal-header">
+    <p class="hiddenStructure">
+  <a accesskey="2" href="http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems/http-based-systems#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems/http-based-systems#portal-globalnav">Skip to navigation</a>
+</p>
+
+<ul id="portal-siteactions">
+
+    <li id="siteaction-sitemap"><a href="http://eitc.org/sitemap" accesskey="3" title="Site Map">Site Map</a></li>
+    <li id="siteaction-accessibility"><a href="http://eitc.org/accessibility-info" accesskey="0" title="Accessibility">Accessibility</a></li>
+    <li id="siteaction-contact"><a href="http://eitc.org/contact-info" accesskey="9" title="Contact">Contact</a></li>
+</ul>
+
+<div id="portal-searchbox">
+    <form name="searchform" id="searchGadget_form" action="http://eitc.org/search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="searchGadget">Search Site</label>
+
+        <input name="SearchableText" type="text" size="18" title="Search Site" accesskey="4" class="searchField inputLabel" id="searchGadget" />
+
+        <input class="searchButton" type="submit" value="Search" />
+
+        <div class="searchSection">
+            <input id="searchbox_currentfolder_only" class="noborder" type="checkbox" name="path" value="/Plone/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems/http-based-systems" />
+            <label for="searchbox_currentfolder_only" style="cursor: pointer">
+                only in current section
+            </label>
+        </div>
+
+        <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://eitc.org/search_form" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<a id="portal-logo" title="EITC" accesskey="1" href="http://eitc.org">
+    <img src="http://eitc.org/logo.jpg" alt="EITC" title="EITC" height="94" width="141" /></a>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="plain"><a href="http://eitc.org" title="">Home</a></li><li id="portaltab-the-table-of-contents" class="plain"><a href="http://eitc.org/the-table-of-contents" title="">The Table of Contents</a></li><li id="portaltab-about-eitc" class="plain"><a href="http://eitc.org/about-eitc" title="">About EITC</a></li><li id="portaltab-organization" class="plain"><a href="http://eitc.org/organization" title="This page serves as a table of contents for the EITC organization. To learn about the EITC organization, choose from the links below.">The Organization</a></li><li id="portaltab-eita" class="plain"><a href="http://eitc.org/eita" title="">EITA</a></li><li id="portaltab-research-opportunities" class="selected"><a href="http://eitc.org/research-opportunities" title="">Research Trends &amp; Opportunities</a></li><li id="portaltab-young-investigator-forum" class="plain"><a href="http://eitc.org/young-investigator-forum" title="
+
+
+">Young Investigator Forum</a></li><li
+    id="portaltab-conferences" class="plain"><a href="http://eitc.org/conferences" title="">Conferences &amp; Workshops</a></li><li id="portaltab-contact-us" class="plain"><a href="http://eitc.org/contact-us" title="">Contact Us</a></li></ul>
+
+</div>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+<ul id="portal-personaltools" class="visualInline">
+    
+
+    
+        <li id="personaltools-login">
+            <a href="http://eitc.org/login">Log in</a>
+        </li>
+    
+
+</ul>
+</div>
+
+
+
+<div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="http://eitc.org">Home</a>
+        <span class="breadcrumbSeparator">
+            &rsaquo;
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="http://eitc.org/research-opportunities">Research Trends &amp; Opportunities</a>
+            <span class="breadcrumbSeparator">
+                &rsaquo;
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            <a href="http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology"> Advanced Software Engineering and Web Technology</a>
+            <span class="breadcrumbSeparator">
+                &rsaquo;
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-3" dir="ltr">
+        
+            <a href="http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution">The Future of Web Technology and Evolution</a>
+            <span class="breadcrumbSeparator">
+                &rsaquo;
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-4" dir="ltr">
+        
+            <a href="http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems">The Web and HTTP-based Systems</a>
+            <span class="breadcrumbSeparator">
+                &rsaquo;
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-5" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">HTTP-based Systems</span>
+         
+    </span>
+
+</div>
+
+      </div>
+
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+                
+                <td id="portal-column-one">
+                  <div class="visualPadding">
+                    
+                      
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a41737369676e6d656e74" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a41737369676e6d656e74">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <a href="http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems/http-based-systems/sitemap" class="tile">EITC</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            <li class="navTreeItem navTreeTopNode navTreeCurrentNode">
+                <div>
+                   <a href="http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems/http-based-systems" class="contenttype-plone-site navTreeCurrentItem" title="">
+                   
+                   HTTP-based Systems
+                   </a>
+                </div>
+            </li>
+            
+
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-dns-over-https-doh">
+
+    
+
+
+        <a href="http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems/http-based-systems/dns-over-https-doh" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>DNS over HTTPS (DoH)</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-http-cookies">
+
+    
+
+
+        <a href="http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems/http-based-systems/http-cookies" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>HTTP Cookies</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a41737369676e6d656e742d32" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a41737369676e6d656e742d32">
+<dl class="portlet portletNews">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <a href="http://eitc.org/news" class="tile">News</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    
+    <dd class="portletItem odd">
+
+        <a href="http://eitc.org/news/65b082088cc78a0a79d178146703-53f07f8e52a04ea46d41" class="tile" title="Courtesy of WorldJournal (............).">
+            
+            ..................... ...............
+         </a>
+            <span class="portletItemDetails">Aug 18, 2012</span>
+        
+    </dd>
+    
+    
+    <dd class="portletItem even">
+
+        <a href="http://eitc.org/news/7b2c4e005c4697525e747814767c5b78800567038b70300d-8670818300119516965e5572854c84f5b59275b785de57a0b820761c9752879d15b785b789662maxwell-dworkin-building8209884c" class="tile" title="">
+            
+            ....................................... 8...18...19................................................Maxwell Dworkin Building......
+         </a>
+            <span class="portletItemDetails">Dec 12, 2011</span>
+        
+    </dd>
+    
+    
+    <dd class="portletItem odd">
+
+        <a href="http://eitc.org/news/20095e747b2c95c4665b082088cc78a0a820779d1628078148" class="tile" title="Courtesy of .............................................">
+            
+            2009......9.......................................(EITC-2009)......
+         </a>
+            <span class="portletItemDetails">Sep 27, 2009</span>
+        
+    </dd>
+    
+    
+    <dd class="portletItem even">
+
+        <a href="http://eitc.org/news/7b2c4e5d5c4665b082088cc78a0a79d1628067038b70843d5e" class="tile" title="Courtesy of .............">
+            
+            .......................................
+         </a>
+            <span class="portletItemDetails">Aug 15, 2009</span>
+        
+    </dd>
+    
+
+    <dd class="portletFooter">
+        <span class="portletBottomLeft"></span>
+        <a href="http://eitc.org/news">
+          More news&hellip;
+        </a>
+        <span class="portletBottomRight"></span>
+    </dd>
+    
+</dl>
+
+</div>
+
+
+
+
+                    
+                    &nbsp;
+                  </div>
+                </td>
+                
+            
+
+            
+            <td id="portal-column-content">
+
+              <div id="viewlet-above-content"></div>
+
+              
+                <div class="">
+
+                    
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                    <div id="content">
+                      
+                      
+
+                        
+                            
+                            
+                                
+                                
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    HTTP-based Systems
+                </h1>
+            
+            
+        
+                            
+                            
+
+
+
+
+                            
+                                
+                                
+            
+                
+            
+            
+        
+                            
+
+                            
+
+
+                            <div id="content-core">
+                                
+    
+        
+        <div class="" id="parent-fieldname-text">
+            
+<div align="center"><dl style="width:768px;" class="image-inline captioned">
+<dt><a rel="lightbox" href="/research-opportunities/photos6/http_040523a"><img src="http://eitc.org/research-opportunities/photos6/http_040523a/image_large" alt="HTTP_040523A" title="HTTP_040523A" height="448" width="768" /></a></dt>
+ <dd class="image-caption" style="width:768px;">[HTTP - TechTarget]</dd>
+</dl></div>
+<ul></ul>
+<p>&nbsp;</p>
+<h3><strong>- HTTP (Hypertext Transfer Protocol)&nbsp;</strong></h3>
+<p>The Hypertext Transfer Protocol (HTTP) is an application-level protocol for distributed, collaborative, hypermedia information systems. This is the foundation for data communication for the World Wide Web (i.e. Internet) since 1990. HTTP is a generic and stateless protocol which can be used for other purposes as well using extensions of its request methods, error codes, and headers.&nbsp;</p>
+<p>Basically, HTTP is a TCP/IP based communication protocol, that is used to deliver data (HTML files, image files, query results, etc.) on the World Wide Web. The default port is TCP 80, but other ports can be used as well. It provides a standardized way for computers to communicate with each other. HTTP specification specifies how clients' request data will be constructed and sent to the server, and how the servers respond to these requests.&nbsp;</p>
+<p>There are three basic features that make HTTP a simple but powerful protocol:</p>
+<ul><li>HTTP is connectionless: The HTTP client, i.e., a browser initiates an HTTP request and after a request is made, the client waits for the response. The server processes the request and sends a response back after which client disconnect the connection. So client and server knows about each other during current request and response only. Further requests are made on new connection like client and server are new to each other.&nbsp;</li><li>HTTP is media independent: It means, any type of data can be sent by HTTP as long as both the client and the server know how to handle the data content. It is required for the client as well as the server to specify the content type using appropriate MIME-type.&nbsp;</li><li>HTTP is stateless: As mentioned above, HTTP is connectionless and it is a direct result of HTTP being a stateless protocol. The server and client are aware of each other only during a current request. Afterwards, both of them forget about each other. Due to this nature of the protocol, neither the client nor the browser can retain information between different requests across the web pages.</li></ul>
+<p>HTTP is a protocol which allows the fetching of resources, such as HTML documents. It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser. A complete document is reconstructed from the different sub-documents fetched, for instance text, layout description, images, videos, scripts, and more.</p>
+<p>&nbsp;</p>
+<p>Please refer to <a class="external-link" href="https://en.wikipedia.org/wiki/HTTP">Wikipedia: HTTP</a> for more details.</p>
+<p>&nbsp;</p>
+<h3><strong>- How HTTP Works</strong></h3>
+<p>HTTP (Hypertext Transfer Protocol) is a request and response protocol for sending requests to a server and receiving responses back in the form of files. HTTP is the foundation of network data communication.&nbsp;</p>
+<p>HTTPS is an evolution of HTTP, where the "S" stands for Secure Sockets Layer, making communication in HTTP more secure.&nbsp;Thanks to its encrypted connection, HTTPS is more secure than HTTP.&nbsp;</p>
+<p>As a request-response protocol, HTTP gives users a way to interact with web resources such as HTML files by transmitting hypertext messages between clients and servers. HTTP clients generally use Transmission Control Protocol (TCP) connections to communicate with servers.<br /><br />HTTP utilizes specific request methods in order to perform various tasks. All HTTP servers use the GET and HEAD methods, but not all support the rest of these request methods:</p>
+<ul><li>GET: it requests a specific resource in its entirety</li><li>HEAD: it requests a specific resource without the body content</li><li>POST: it adds content, messages, or data to a new page under an existing web resource</li><li>PUT: it directly modifies an existing web resource or creates a new URI if need be</li><li>DELETE: it gets rid of a specified resource</li><li>TRACE: it shows users any changes or additions made to a web resource</li><li>OPTIONS: it shows users which HTTP methods are available for a specific URL</li><li>CONNECT: it converts the request connection to a transparent TCP/IP tunnel</li><li>PATCH: it partially modifies a web resource</li></ul>
+<p>&nbsp;</p>
+<h3><strong>- HTTPS and&nbsp;</strong><strong>Switching from HTTP to HTTPS</strong></h3>
+<p>HTTPS is HTTP with encryption and verification. The only difference between the two protocols is that HTTPS uses TLS (SSL) to encrypt normal HTTP requests and responses, and to digitally sign those requests and responses. As a result, HTTPS is far more secure than HTTP.</p>
+<p>Switching to HTTPS is a relatively simple process:&nbsp;</p>
+<ul><li>Buy an SSL certificate: Many web hosting companies such as GoDaddy or Namecheap sell SSL certificates. However, if you wish to purchase a certificate from a third-party vendor, make sure to do your research thoroughly before purchasing.</li><li>Install your SSL certificate through your web hosting: Each web hosting service will have different instructions for installing your SSL certificate.</li><li>Updated all internal links from HTTP to HTTPS: Not all links worked well. If you find any links that still point to the HTTP version of the page, please update them directly in the code.</li><li>Set up any redirects from HTTP to HTTPS: You can also set up manual redirects to ensure that the browser points to the HTTPS version of the web page.</li></ul>
+<p>If you're not willing to make these technical changes, most web hosting companies can handle it for you for a price. You still need to update or redirect any remaining internal links to HTTPS.</p>
+<p>&nbsp;</p>
+<h3><strong>- The Beginning of HTTP</strong></h3>
+<p>The development of HTTP was initiated by Tim Berners-Lee at CERN in 1989 and summarized in a simple document describing the behavior of clients and servers using the first version of the HTTP protocol called 0.9.&nbsp;The first version of the HTTP protocol quickly evolved into a more detailed version, the first draft of a far-future version 1.0.&nbsp;</p>
+<p>Development of an early HTTP Request for Comments (RFC) began a few years later as a coordinated effort between the Internet Engineering Task Force (IETF) and the World Wide Web Consortium (W3C), before work was transferred to the IETF.</p>
+<p>&nbsp;</p>
+<h3><strong>- HTTP/1</strong></h3>
+<p>HTTP/1 was finalized and fully documented (as version 1.0) in 1996. It developed in 1997 (as version 1.1), then updated its specification in 1999, 2014, and 2022.&nbsp;&nbsp;More than 80% of all websites use its secure variant called HTTPS.</p>
+<p>&nbsp;</p>
+<h3><strong>- HTTP/2</strong></h3>
+<p>HTTP/2, released in 2015, provides a more efficient expression of "on the wire" HTTP semantics. It is now used by 41% of websites and supported by almost all web browsers (over 97% of users). It is also supported by major web servers through Transport Layer Security (TLS) using the Application Layer Protocol Negotiation (ALPN) extension, which requires TLS 1.2 or newer.&nbsp;</p>
+<p>&nbsp;</p>
+<h3><strong>- HTTP/3</strong></h3>
+<p>The successor of HTTP/2, HTTP/3, will be released in 2022. It is now used by over 25% of all websites and supported by many web browsers (over 75% of users). HTTP/3 uses QUIC instead of TCP as the underlying transport protocol. As with HTTP/2, it does not obsolete previous major versions of the protocol. Cloudflare and Google Chrome were the first to add support for HTTP/3, and Firefox also enabled it. HTTP/3 has lower latency for real-world web pages, and if enabled on the server, loads faster than HTTP/2, even faster than HTTP/1.1, in some cases more than 3 times faster than HTTP/1.1 (still normally only enabled).</p>
+<p>&nbsp;</p>
+<h3><strong>- Security Concerns Surrounding HTTP</strong></h3>
+<p>Unfortunately, attackers can choose from many vectors to attack web servers, web applications, and websites. From cross-site scripting (XSS) to HTTP request smuggling, adversaries often exploit well-known vulnerabilities and misconfigurations...not to mention HTTP security issues with sending cleartext credentials over HTTP. The OWASP Foundation highlights the top 10 security risks to avoid when building web applications to help improve defenses against HTTP-based attacks.</p>
+<p>Many attacks occur over HTTPS, an encrypted HTTP connection established using SSL/TLS. Learn how monitoring encrypted traffic is important to detect attacks like Log4j that can hide in encrypted HTTPS traffic.</p>
+<p>&nbsp;</p>
+<h3>- Components of HTTP-based Systems</h3>
+<p>HTTP is a client-server protocol: requests are sent by one entity, the user-agent (or a proxy on behalf of it). Most of the time the user-agent is a Web browser, but it can be anything, for example a robot that crawls the Web to populate and maintain a search engine index.&nbsp;</p>
+<p>Each individual request is sent to a server, which handles it and provides an answer, called the response. Between the client and the server there are numerous entities, collectively called proxies, which perform different operations and act as gateways or caches, for example.&nbsp;</p>
+<p>In reality, there are more computers between a browser and the server handling the request: there are routers, modems, and more. Thanks to the layered design of the Web, these are hidden in the network and transport layers. HTTP is on top, at the application layer. Although important to diagnose network problems, the underlying layers are mostly irrelevant to the description of HTTP.<br /><br /></p>
+<h3><strong>- Client: the user-agent</strong></h3>
+<p>The user-agent is any tool that acts on the behalf of the user. This role is primarily performed by the Web browser; other possibilities are programs used by engineers and Web developers to debug their applications.&nbsp;</p>
+<p>&nbsp;</p>
+<h3><strong>- The Web Server</strong></h3>
+<p>On the opposite side of the communication channel, is the server, which serves the document as requested by the client. A server appears as only a single machine virtually: this is because it may actually be a collection of servers, sharing the load (load balancing) or a complex piece of software interrogating other computers (like cache, a DB server, or e-commerce servers), totally or partially generating the document on demand.</p>
+<p>&nbsp;</p>
+<h3><strong>- Proxies</strong></h3>
+<p>Between the Web browser and the server, numerous computers and machines relay the HTTP messages. Due to the layered structure of the Web stack, most of these operate at the transport, network or physical levels, becoming transparent at the HTTP layer and potentially making a significant impact on performance. Those operating at the application layers are generally called proxies. These can be transparent, forwarding on the requests they receive without altering them in any way, or non-transparent, in which case they will change the request in some way before passing it along to the server.&nbsp;</p>
+<p>Proxies may perform numerous functions:&nbsp;caching (the cache can be public or private, like the browser cache);&nbsp;filtering (like an antivirus scan or parental controls);&nbsp;load balancing (to allow multiple servers to serve the different requests);&nbsp;authentication (to control access to different resources);&nbsp;logging (allowing the storage of historical information).</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>[More to come ...]</strong></p>
+<p><strong><br /></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+            
+        </div>
+    
+    
+
+                            </div>
+                            
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+            <h5 class="hiddenStructure">
+              Document Actions
+            </h5>
+
+            <ul>
+                  <li id="document-action-sendto">
+                      <a href="http://eitc.org/research-opportunities/advanced-software-engineering-and-web-technology/the-future-of-web-technology-and-evolution/the-web-and-http-based-systems/http-based-systems/http-based-systems/sendto_form" title="">Send this</a>
+                  </li>
+            </ul>
+        
+
+        
+
+    </div>
+
+                        
+
+                      
+                    </div>
+                    
+
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                </div>
+              
+
+              <div id="viewlet-below-content">
+
+
+
+    
+
+</div>
+
+            </td>
+            
+
+            
+                
+                
+                
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+
+      
+
+        <div id="portal-footer">
+
+<p>
+    
+    &copy; Emerging Information & Technology Conference
+    
+</p>
+
+<p>
+    
+    This site is managed by EBMedia, L.L.C.
+    
+</p>
+
+</div>
+<div id="portal-colophon">
+      
+
+      
+
+
+    </div>
+
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt="" src="http://eitc.org/spinner.gif" /></div>
+</body>
+</html>
+
+
