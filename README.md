@@ -106,7 +106,7 @@ Client Hello :
 
 The browser's opening message — sent before encryption is active — included:
 
-SNI (Server Name Indication): iana.org — the only part of this exchange visible to network observers
+SNI (Server Name Indication):example.com— the only part of this exchange visible to network observers
 17 supported cipher suites offered for the server to choose from
 A random number, used later as an ingredient in generating the session's encryption key
 A Session ID, allowing faster reconnection later
